@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#E3CEF6&height=300&section=header&text=Welcome&desc=JunYoung's%Github%Space&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Welcome&desc=JunYoung's%Github%Space&fontSize=60&fontAlign=-70)
 
 <!--
 **juneyng/juneyng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
